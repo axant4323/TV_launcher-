@@ -1,0 +1,19 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+captures
+.externalNativeBuild
+.cxx
+
+# Gradle & Build artifacts
+launcher/.gradle/
+launcher/app/build/
+launcher/local.properties
+*.hprof
+
+# OS files
+.DS_Store
+Thumbs.db

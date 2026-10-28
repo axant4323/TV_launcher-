@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.AdithyaTvLauncher" parent="@android:style/Theme.NoTitleBar.Fullscreen">
+        <item name="android:windowBackground">@color/background_dark</item>
+        <item name="android:colorBackground">@color/background_dark</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

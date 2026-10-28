@@ -1,0 +1,7 @@
+<resources>
+    <color name="background_dark">#0B0E14</color>
+    <color name="surface_card">#161B22</color>
+    <color name="focus_ring">#58A6FF</color>
+    <color name="text_primary">#F0F6FC</color>
+    <color name="text_secondary">#8B949E</color>
+</resources>

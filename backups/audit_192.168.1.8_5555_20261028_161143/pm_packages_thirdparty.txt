@@ -1,0 +1,13 @@
+package:com.spotify.tv.android
+package:cm.aptoidetv.pt
+package:com.mobisystems.fileman
+package:tv.airtel.xstream.tvapp
+package:com.sonyliv
+package:in.startv.hotstar
+package:org.courville.nova
+package:com.suntv.sunnxt
+package:com.graymatrix.did
+package:com.mitv.tvhome.mitvplus
+package:com.cinesoft.neestream.androidtv
+package:com.jio.media.stb.ondemand
+package:com.tvwebbrowser.v22

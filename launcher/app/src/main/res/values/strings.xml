@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Adithya TV Launcher</string>
+    <string name="favorites_title">Favorites</string>
+    <string name="inputs_title">Inputs</string>
+    <string name="all_apps_title">All Apps</string>
+    <string name="settings_title">Launcher Settings</string>
+    <string name="search_title">Search Apps</string>
+    <string name="open_settings">System Settings</string>
+    <string name="no_apps_found">No apps installed or found.</string>
+    <string name="dpad_hint">Use D-pad arrows to navigate, Center to select, Long-press Center to toggle Favorite</string>
+</resources>

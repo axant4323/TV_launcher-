@@ -1,0 +1,7 @@
+=== HOME INTENT ===
+priority=2 preferredOrder=0 match=0x108000 specificIndex=-1 isDefault=true
+com.google.android.tvlauncher/.MainActivity
+
+=== LEANBACK LAUNCHER INTENT ===
+priority=0 preferredOrder=0 match=0x0 specificIndex=-1 isDefault=false
+android/com.android.internal.app.ResolverActivity

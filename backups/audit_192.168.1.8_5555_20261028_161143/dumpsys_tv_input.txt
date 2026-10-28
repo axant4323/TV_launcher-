@@ -1,0 +1,34 @@
+User Ids (Current user: 0):
+  0
+UserState (0):
+  inputMap: inputId -> TvInputState
+    com.google.android.videos/.tv.usecase.tvinput.playback.TvInputService: info: TvInputInfo{id=com.google.android.videos/.tv.usecase.tvinput.playback.TvInputService, pkg=com.google.android.videos, service=com.google.android.videos.tv.usecase.tvinput.playback.TvInputService}; state: 0
+    com.mitv.tvhome.mitvplus/.livetv.LiveTVInputService: info: TvInputInfo{id=com.mitv.tvhome.mitvplus/.livetv.LiveTVInputService, pkg=com.mitv.tvhome.mitvplus, service=com.mitv.tvhome.mitvplus.livetv.LiveTVInputService}; state: 0
+    com.google.android.videos/com.google.android.apps.play.movies.tv.usecase.tvinput.playback.VideoPreviewInputService: info: TvInputInfo{id=com.google.android.videos/com.google.android.apps.play.movies.tv.usecase.tvinput.playback.VideoPreviewInputService, pkg=com.google.android.videos, service=com.google.android.apps.play.movies.tv.usecase.tvinput.playback.VideoPreviewInputService}; state: 0
+    com.graymatrix.did/com.zee5.androidtv.pmr.live.TvInputService: info: TvInputInfo{id=com.graymatrix.did/com.zee5.androidtv.pmr.live.TvInputService, pkg=com.graymatrix.did, service=com.zee5.androidtv.pmr.live.TvInputService}; state: 0
+  packageSet:
+    com.google.android.videos
+    com.mitv.tvhome.mitvplus
+    com.graymatrix.did
+  clientStateMap: ITvInputClient -> ClientState
+  serviceStateMap: ComponentName -> ServiceState
+  sessionStateMap: ITvInputSession -> SessionState
+  callbackSet:
+    android.media.tv.ITvInputManagerCallback$Stub$Proxy@5a8b7db
+    android.media.tv.ITvInputManagerCallback$Stub$Proxy@12bd218
+    android.media.tv.ITvInputManagerCallback$Stub$Proxy@c052296
+    android.media.tv.TvInputManager$2@b35cf70
+    android.media.tv.ITvInputManagerCallback$Stub$Proxy@7ba28fd
+    android.media.tv.ITvInputManagerCallback$Stub$Proxy@bbc0217
+    android.media.tv.ITvInputManagerCallback$Stub$Proxy@1d72369
+    android.media.tv.ITvInputManagerCallback$Stub$Proxy@3907b0e
+    android.media.tv.ITvInputManagerCallback$Stub$Proxy@47b5424
+    android.media.tv.ITvInputManagerCallback$Stub$Proxy@ab8fd07
+  mainSessionToken: null
+TvInputHardwareManager Info:
+  mConnections: deviceId -> Connection
+  mHardwareList:
+  mHdmiDeviceList:
+  mHardwareInputIdMap: deviceId -> inputId
+  mHdmiInputIdMap: id -> inputId
+  mInputMap: inputId -> inputInfo

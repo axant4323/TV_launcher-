@@ -1,0 +1,61 @@
+{
+  "target_serial": "192.168.1.8:5555",
+  "approved_timestamp": "2026-10-28T16:15:00",
+  "actions": [
+    {
+      "package": "com.miui.tv.analytics",
+      "action": "disable-user",
+      "reason": "Xiaomi TV background telemetry, device logging, and user tracking"
+    },
+    {
+      "package": "tv.alphonso.alphonso_eula",
+      "action": "disable-user",
+      "reason": "Alphonso ACR audio/video fingerprint ad tracking SDK"
+    },
+    {
+      "package": "com.mitv.tvhome.atv",
+      "action": "disable-user",
+      "reason": "Xiaomi PatchWall Android TV sponsored row bridge"
+    },
+    {
+      "package": "com.mitv.tvhome.michannel",
+      "action": "disable-user",
+      "reason": "Xiaomi Mi Channel promotional aggregator"
+    },
+    {
+      "package": "com.mitv.tvhome.mitvplus",
+      "action": "disable-user",
+      "reason": "Xiaomi Mi TV+ promotional streaming service"
+    },
+    {
+      "package": "com.xiaomi.android.tvsetup.partnercustomizer",
+      "action": "disable-user",
+      "reason": "Xiaomi preloaded partner app promotion injector"
+    },
+    {
+      "package": "android.autoinstalls.config.xioami.mibox3",
+      "action": "disable-user",
+      "reason": "Xiaomi partner auto-install configuration stub"
+    },
+    {
+      "package": "com.xm.webcontent",
+      "action": "disable-user",
+      "reason": "Xiaomi web promotional banner content provider"
+    },
+    {
+      "package": "com.mitv.videoplayer",
+      "action": "disable-user",
+      "reason": "Duplicate Xiaomi Video Player (Nova Video Player and streaming apps active)"
+    },
+    {
+      "package": "com.mitv.download.service",
+      "action": "disable-user",
+      "reason": "Background download daemon used by Xiaomi promotional store"
+    },
+    {
+      "package": "mitv.service",
+      "action": "disable-user",
+      "reason": "Background service for Xiaomi PatchWall components"
+    }
+  ]
+}

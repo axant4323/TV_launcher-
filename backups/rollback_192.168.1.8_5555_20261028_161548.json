@@ -1,0 +1,126 @@
+{
+  "device_serial": "192.168.1.8:5555",
+  "cleanup_timestamp": "20261028_161548",
+  "applied_actions": [
+    {
+      "package": "com.miui.tv.analytics",
+      "action_taken": "disable-user",
+      "previous_state": {
+        "installed": true,
+        "enabled": true
+      },
+      "rollback_command": "adb -s 192.168.1.8:5555 shell pm enable com.miui.tv.analytics",
+      "timestamp": "2026-10-28T16:15:49.195455"
+    },
+    {
+      "package": "tv.alphonso.alphonso_eula",
+      "action_taken": "disable-user",
+      "previous_state": {
+        "installed": true,
+        "enabled": true
+      },
+      "rollback_command": "adb -s 192.168.1.8:5555 shell pm enable tv.alphonso.alphonso_eula",
+      "timestamp": "2026-10-28T16:15:50.745227"
+    },
+    {
+      "package": "com.mitv.tvhome.atv",
+      "action_taken": "disable-user",
+      "previous_state": {
+        "installed": true,
+        "enabled": true
+      },
+      "rollback_command": "adb -s 192.168.1.8:5555 shell pm enable com.mitv.tvhome.atv",
+      "timestamp": "2026-10-28T16:15:52.153097"
+    },
+    {
+      "package": "com.mitv.tvhome.michannel",
+      "action_taken": "disable-user",
+      "previous_state": {
+        "installed": true,
+        "enabled": true
+      },
+      "rollback_command": "adb -s 192.168.1.8:5555 shell pm enable com.mitv.tvhome.michannel",
+      "timestamp": "2026-10-28T16:15:53.565270"
+    },
+    {
+      "package": "com.mitv.tvhome.mitvplus",
+      "action_taken": "disable-user",
+      "previous_state": {
+        "installed": true,
+        "enabled": true
+      },
+      "rollback_command": "adb -s 192.168.1.8:5555 shell pm enable com.mitv.tvhome.mitvplus",
+      "timestamp": "2026-10-28T16:15:55.086428"
+    },
+    {
+      "package": "com.xiaomi.android.tvsetup.partnercustomizer",
+      "action_taken": "disable-user",
+      "previous_state": {
+        "installed": true,
+        "enabled": true
+      },
+      "rollback_command": "adb -s 192.168.1.8:5555 shell pm enable com.xiaomi.android.tvsetup.partnercustomizer",
+      "timestamp": "2026-10-28T16:15:56.534646"
+    },
+    {
+      "package": "android.autoinstalls.config.xioami.mibox3",
+      "action_taken": "disable-user",
+      "previous_state": {
+        "installed": true,
+        "enabled": true
+      },
+      "rollback_command": "adb -s 192.168.1.8:5555 shell pm enable android.autoinstalls.config.xioami.mibox3",
+      "timestamp": "2026-10-28T16:15:57.958483"
+    },
+    {
+      "package": "com.xm.webcontent",
+      "action_taken": "disable-user",
+      "previous_state": {
+        "installed": true,
+        "enabled": true
+      },
+      "rollback_command": "adb -s 192.168.1.8:5555 shell pm enable com.xm.webcontent",
+      "timestamp": "2026-10-28T16:15:59.400765"
+    },
+    {
+      "package": "com.mitv.videoplayer",
+      "action_taken": "disable-user",
+      "previous_state": {
+        "installed": true,
+        "enabled": true
+      },
+      "rollback_command": "adb -s 192.168.1.8:5555 shell pm enable com.mitv.videoplayer",
+      "timestamp": "2026-10-28T16:16:00.935409"
+    },
+    {
+      "package": "com.mitv.download.service",
+      "action_taken": "disable-user",
+      "previous_state": {
+        "installed": true,
+        "enabled": true
+      },
+      "rollback_command": "adb -s 192.168.1.8:5555 shell pm enable com.mitv.download.service",
+      "timestamp": "2026-10-28T16:16:02.324253"
+    },
+    {
+      "package": "mitv.service",
+      "action_taken": "disable-user",
+      "previous_state": {
+        "installed": true,
+        "enabled": true
+      },
+      "rollback_command": "adb -s 192.168.1.8:5555 shell pm enable mitv.service",
+      "timestamp": "2026-10-28T16:16:03.795449"
+    },
+    {
+      "package": "com.google.android.tvlauncher",
+      "action_taken": "disable-user",
+      "previous_state": {
+        "installed": true,
+        "enabled": true
+      },
+      "rollback_command": "adb -s 192.168.1.8:5555 shell pm enable com.google.android.tvlauncher",
+      "timestamp": "2026-10-28T16:41:30.000000"
+    }
+  ]
+}
